@@ -1,0 +1,6 @@
+Airline,Source,Destination,Duration,Total Stops,Price,Departure Time_hour,Departure Time_minute,Arrival Time_hour,Arrival Time_minute
+1,2,4,2.5,0,5000,10,0,12,30
+0,4,3,2.5,1,7000,15,30,18,0
+2,0,2,2.5,2,6000,7,15,9,45
+1,3,1,2.5,0,5500,18,45,21,15
+3,1,0,2.5,1,6500,21,0,23,30
